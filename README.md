@@ -1,6 +1,6 @@
 # Bees In The Trap 🐝
 
-A simple turn-based game written in Go where you must destroy a hive of bees before they sting you to death.
+You must destroy a hive of bees before they sting you to death.
 
 ## Game Rules
 
